@@ -1,0 +1,52 @@
+Rank,State,Participation,Critical Reading,Math,Writing,Combined,Region
+1,North Dakota,0.02,612,620,584,1816,Midwest
+2,Illinois,0.05,599,616,587,1802,Midwest
+3,Iowa,0.03,605,611,578,1794,Midwest
+4,South Dakota,0.03,604,609,579,1792,Midwest
+5,Minnesota,0.06,598,610,578,1786,Midwest
+6,Michigan,0.04,593,610,581,1784,Midwest
+7,Wisconsin,0.04,596,608,578,1782,Midwest
+8,Missouri,0.04,595,597,579,1771,Midwest
+9,Wyoming,0.03,590,599,573,1762,West
+10,Kansas,0.05,591,596,566,1753,Midwest
+11,Kentucky,0.05,589,585,572,1746,South
+12,Nebraska,0.04,589,587,569,1745,Midwest
+13,Colorado,0.14,582,586,567,1735,West
+14,Mississippi,0.03,583,566,565,1714,South
+15,Tennessee,0.08,578,570,566,1714,South
+16,Arkansas,0.04,573,571,554,1698,South
+17,Oklahoma,0.05,576,571,550,1697,South
+18,Utah,0.05,571,568,551,1690,West
+19,Louisiana,0.05,561,556,550,1667,South
+20,Ohio,0.15,555,562,535,1652,Midwest
+21,Montana,0.18,555,552,530,1637,West
+22,Alabama,0.07,547,538,532,1617,South
+23,New Mexico,0.12,548,543,526,1617,West
+24,New Hampshire,0.7,524,530,512,1566,Northeast
+25,Massachusetts,0.84,516,531,509,1556,Northeast
+26,Vermont,0.63,522,525,507,1554,Northeast
+27,Arizona,0.36,522,525,500,1547,West
+28,Oregon,0.48,523,522,499,1544,West
+29,Virginia,0.73,518,515,497,1530,South
+30,New Jersey,0.79,501,523,502,1526,Northeast
+31,Connecticut,0.88,507,510,508,1525,Northeast
+32,West Virginia,0.15,517,505,500,1522,South
+33,Washington,0.63,510,518,491,1519,West
+34,California,0.6,498,510,496,1504,West
+35,Alaska,0.54,507,503,475,1485,West
+36,North Carolina,0.64,499,507,477,1483,South
+37,Pennsylvania,0.71,497,504,480,1481,Northeast
+38,Rhode Island,0.73,497,496,487,1480,Northeast
+39,Indiana,0.71,497,500,477,1474,Midwest
+40,Maryland,0.79,492,495,481,1468,South
+41,New York,0.76,488,502,478,1468,Northeast
+42,Hawaii,0.63,484,504,472,1460,West
+43,Nevada,0.54,495,494,469,1458,West
+44,Florida,0.72,491,485,472,1448,South
+45,Georgia,0.77,488,485,472,1445,South
+46,South Carolina,0.65,488,490,465,1443,South
+47,Texas,0.62,476,495,461,1432,South
+48,Maine,0.96,467,471,449,1387,Northeast
+49,Idaho,1,458,456,450,1364,West
+50,Delaware,1,456,459,444,1359,South
+51,District of Columbia,1,440,438,431,1309,Northeast
