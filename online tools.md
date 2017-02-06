@@ -17,16 +17,16 @@ DataWrapper - Cevrimici veri gorsellestirme araci
 
 https://www.datawrapper.de
 
-
----
-
-Google Charts
-
-https://developers.google.com/chart/interactive/docs/gallery
-
 Google Fusion Table
 
 https://fusiontables.google.com
+
+
+---
+
+Google Charts - Gorsellestirme icin java kutuphanesi
+
+https://developers.google.com/chart/interactive/docs/gallery
 
 
 RAW
@@ -45,7 +45,7 @@ Infogram
 
 https://infogr.am
 
-Google Data Studio (Henüz Türkiye’de aktif degil.)
+Google Data Studio (Henüz Turkiye’de aktif degil.)
 
 https://www.google.com/analytics/data-studio/
 
