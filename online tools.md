@@ -29,6 +29,11 @@ Google Charts - Gorsellestirme icin java kutuphanesi
 https://developers.google.com/chart/interactive/docs/gallery
 
 
+d3js
+
+https://d3js.org
+
+
 RAW
 
 http://raw.densitydesign.org
@@ -40,6 +45,17 @@ http://www.charted.co
 Plotly
 
 https://plot.ly
+
+
+silk.co
+
+http://www.silk.co
+
+
+Data Journalism Tools 
+
+http://data-journalism-tools.silk.co/
+
 
 Infogram
 
@@ -59,21 +75,26 @@ http://tools.medialab.sciences-po.fr/seealsology
 
 Örnek link -> https://en.wikipedia.org/wiki/Data_visualization
 
+
 UMAP
 
 https://umap.openstreetmap.fr
+
 
 Free Map Tools
 
 https://www.freemaptools.com/map-tools.htm
 
+
 Datamatic.io
 
 http://datamatic.io/index.html
 
+
 DataBasic.io (Kesifci veri analizi icin online arac)
 
 https://www.databasic.io
+
 
 Mirador - Gorsel kesifci veri analizi
 
@@ -89,8 +110,18 @@ High Charts - Java kutuphanesi
 
 http://www.highcharts.com
 
+
 Visual Sedimentation
 
 http://www.visualsedimentation.org
+
+
+ModernData
+
+http://moderndata.plot.ly/category/r
+
+KDNuggets - Visualization and Data Mining Software
+
+http://www.kdnuggets.com/software/visualization.html
 
 
